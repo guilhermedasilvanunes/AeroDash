@@ -1,14 +1,15 @@
-Bem-vindo ao “AeroDash”! Este manual fornece instruções básicas para que você possa começar a jogar e desfrutar da sua jornada.
+Bem-vindo ao “AeroDash”!
 
 Objetivo do jogo: 
 O objetivo principal do nosso jogo é um percurso de avião, neste percurso existem obstáculos e você terá que passar por esses obstáculos sem bater neles e assim zerar o game. 
 
 Controles:
-Utilize as teclas de seta (↑, ↓) para se mover para cima e para baixo. 
+
+-Utilize as teclas de seta (↑, ↓) para se mover para cima e para baixo. 
 
 -Para atirar pressione as teclas “Espaço” ou “Enter”.
 
--Para acessar o menu inicial aperte a tecla “I” ou “M”.
+-Para acessar o menu inicial aperte a tecla “M”.
 
 -Para iniciar o jogo clique no meio de tela.
 
