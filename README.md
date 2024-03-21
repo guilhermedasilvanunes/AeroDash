@@ -7,8 +7,6 @@ Controles:
 
 -Utilize as teclas de seta (↑, ↓) para se mover para cima e para baixo. 
 
--Para atirar pressione as teclas “Espaço” ou “Enter”.
-
 -Para acessar o menu inicial aperte a tecla “M”.
 
 -Para iniciar o jogo clique no meio de tela.
